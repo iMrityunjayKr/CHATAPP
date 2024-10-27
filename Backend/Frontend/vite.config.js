@@ -9,7 +9,6 @@ export default defineConfig({
     proxy: {
       "/api": {
         target: "https://chatapp-cik5.onrender.com"
-        changeOrigin: true,
       },
     },
   },
