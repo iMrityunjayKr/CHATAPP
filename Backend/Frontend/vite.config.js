@@ -8,7 +8,7 @@ export default defineConfig({
     port: 3001,
     proxy: {
       "/api": {
-        target: "http://localhost:4002",
+        target: "https://chatapp-cik5.onrender.com"
         changeOrigin: true,
       },
     },
