@@ -22,7 +22,7 @@
         "socket.io-client": "^4.7.5",
         "zustand": "^4.5.2",
         "vite": "^latest_version", 
-        "@vitejs/plugin-react": "^latest_version",
+        "@vitejs/plugin-react": "^latest_version"
     },
     "devDependencies": {
         "@types/react": "^18.2.66",
